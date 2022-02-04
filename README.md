@@ -16,7 +16,7 @@
     </div>
 </div>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abanshikov&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abanshikov&theme=github_dark)
 
 
 
