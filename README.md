@@ -1,3 +1,4 @@
+            <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 <div>
     <div>
         <a href="https://github.com/abanshikov/python">
@@ -10,7 +11,6 @@
     <div>
         <div>
             <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abanshikov&exclude_repo=sites&hide=vim+script&show_icons=true&theme=github_dark" />
-            <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
         </div>
     </div>
 </div>
