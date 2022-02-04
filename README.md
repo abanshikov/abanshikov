@@ -1,6 +1,6 @@
 # abanshikov
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abanshikov&repo=excel,python)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abanshikov&repo=excel)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=abanshikov&exclude_repo=sites&hide=vim+script&show_icons=true&theme=github_dark)
 
 
