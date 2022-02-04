@@ -1,6 +1,30 @@
 # abanshikov
 
-<div class='display: flex'>
+<table>
+    <tr>
+        <td>
+            <div>
+                <a href="https://github.com/abanshikov/python">
+                    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abanshikov&repo=python&theme=github_dark" />
+                </a>
+            </div>
+            <div>
+                <a href="https://github.com/abanshikov/excel">
+                    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abanshikov&repo=excel&theme=github_dark" />
+                </a>
+            </div>
+        </td>
+        <td>
+            <div>
+                <a href="https://github.com/abanshikov/excel">
+                    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abanshikov&repo=excel&theme=github_dark" />
+                </a>
+            </div>
+        </td>
+    </tr>
+</table>
+
+<div>
     <div>
         <div>
             <a href="https://github.com/abanshikov/python">
