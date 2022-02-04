@@ -23,7 +23,7 @@
 </table>
 
 <div>
-    <div>
+    <span>
         <div>
             <a href="https://github.com/abanshikov/python">
                 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abanshikov&repo=python&theme=github_dark" />
@@ -34,12 +34,12 @@
                 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abanshikov&repo=excel&theme=github_dark" />
             </a>
         </div>
-    </div>
-    <div>
+    </span>
+    <span>
         <div>
             <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abanshikov&exclude_repo=sites&hide=vim+script&show_icons=true&theme=github_dark" />
         </div>
-    </div>
+    </span>
 </div>
 
 
