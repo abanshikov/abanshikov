@@ -1,5 +1,19 @@
 # abanshikov
 
+<div>
+    <div>
+        <a href="https://github.com/abanshikov/python">
+            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abanshikov&repo=python" />
+        </a>
+        <a href="https://github.com/abanshikov/excel">
+            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abanshikov&repo=excel" />
+        </a>
+    </div>
+    <div>
+    </div>
+</div>
+
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abanshikov&repo=python)](https://github.com/abanshikov/python)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abanshikov&repo=excel)](https://github.com/abanshikov/excel)
 ![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=abanshikov&exclude_repo=sites&hide=vim+script&show_icons=true&theme=github_dark)
