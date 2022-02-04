@@ -1,6 +1,6 @@
 # abanshikov
 
-<table>
+<table cellspacing="0" cellpadding="0">
     <tr>
         <td>
             <div>
