@@ -1,6 +1,6 @@
 # abanshikov
 
-<div>
+<div class='display: flex'>
     <div>
         <div>
             <a href="https://github.com/abanshikov/python">
