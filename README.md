@@ -16,9 +16,7 @@
         </td>
         <td>
             <div>
-                <a href="https://github.com/abanshikov/excel">
-                    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abanshikov&repo=excel&theme=github_dark" />
-                </a>
+                <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abanshikov&exclude_repo=sites&hide=vim+script&show_icons=true&theme=github_dark" />
             </div>
         </td>
     </tr>
