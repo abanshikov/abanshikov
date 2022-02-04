@@ -16,6 +16,8 @@
     </div>
 </div>
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abanshikov&theme=solarized_dark)
+
 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
