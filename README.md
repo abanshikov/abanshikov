@@ -1,6 +1,6 @@
 # abanshikov
 
-<table cellspacing="0" cellpadding="0" border="0">
+<table cellspacing="0" cellpadding="0" border="1">
     <tr>
         <td>
             <div>
@@ -23,23 +23,19 @@
 </table>
 
 <div>
-    <span>
-        <div>
+    <div>
             <a href="https://github.com/abanshikov/python">
                 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abanshikov&repo=python&theme=github_dark" />
             </a>
-        </div>
-        <div>
             <a href="https://github.com/abanshikov/excel">
                 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abanshikov&repo=excel&theme=github_dark" />
             </a>
-        </div>
-    </span>
-    <span>
+    </div>
+    <div>
         <div>
             <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abanshikov&exclude_repo=sites&hide=vim+script&show_icons=true&theme=github_dark" />
         </div>
-    </span>
+    </div>
 </div>
 
 
