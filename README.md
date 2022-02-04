@@ -1,6 +1,6 @@
 # abanshikov
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=abanshikov&show_icons=true&hide=stars,prs,issues,contribs&theme=github_dark)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abanshikov&repo=excel,python)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=abanshikov&exclude_repo=sites&hide=vim+script&show_icons=true&theme=github_dark)
 
 
