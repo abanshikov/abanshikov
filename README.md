@@ -4,7 +4,7 @@
     <div>
         <div>
             <a href="https://github.com/abanshikov/python">
-                <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abanshikov&repo=python&theme=github_dark />
+                <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abanshikov&repo=python&theme=github_dark" />
             </a>
         </div>
         <div>
