@@ -2,14 +2,21 @@
 
 <div>
     <div>
-        <a href="https://github.com/abanshikov/python">
-            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abanshikov&repo=python" />
-        </a>
-        <a href="https://github.com/abanshikov/excel">
-            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abanshikov&repo=excel" />
-        </a>
+        <div>
+            <a href="https://github.com/abanshikov/python">
+                <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abanshikov&repo=python&theme=github_dark />
+            </a>
+        </div>
+        <div>
+            <a href="https://github.com/abanshikov/excel">
+                <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abanshikov&repo=excel&theme=github_dark" />
+            </a>
+        </div>
     </div>
     <div>
+        <div>
+            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abanshikov&exclude_repo=sites&hide=vim+script&show_icons=true&theme=github_dark" />
+        </div>
     </div>
 </div>
 
